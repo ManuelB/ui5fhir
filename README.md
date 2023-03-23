@@ -1,8 +1,8 @@
 ## Screenshots
 
-![](docs/Screen1.png?raw=true "")
-![](docs/Screen2.png?raw=true "")
-![](docs/Screen3.png?raw=true "")
+![](docs/Screen-1.png?raw=true "")
+![](docs/Screen-2.png?raw=true "")
+![](docs/Screen-3.png?raw=true "")
 
 ## Application Details
 

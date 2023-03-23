@@ -1,4 +1,11 @@
+## Screenshots
+
+![](docs/Screen1.png?raw=true "")
+![](docs/Screen2.png?raw=true "")
+![](docs/Screen3.png?raw=true "")
+
 ## Application Details
+
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Thu Mar 23 2023 10:37:34 GMT+0000 (Coordinated Universal Time)|
